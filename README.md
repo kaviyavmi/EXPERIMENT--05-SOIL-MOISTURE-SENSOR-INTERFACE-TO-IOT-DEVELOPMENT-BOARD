@@ -285,9 +285,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 <img width="728" height="717" alt="image" src="https://github.com/user-attachments/assets/3cac8e4a-971f-4f44-9675-5dbbcd143c84" />
 
 
-<img width="1026" height="795" alt="image" src="https://github.com/user-attachments/assets/d7173aef-ca54-4a4c-beee-8976e30c4098" />
-
-
 <img width="901" height="663" alt="image" src="https://github.com/user-attachments/assets/e774994a-3d95-4e09-a4bd-bf54bfd48ece" />
 
  
